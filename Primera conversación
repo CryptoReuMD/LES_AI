@@ -1,0 +1,120 @@
+# Greeting Intent
+Examples:
+- Hello
+- Hi there!
+- Good morning
+- Hey!
+Responses:
+- Hello! How can I assist you today? I'm here to share my knowledge on rheumatology and chronic pain.
+- Hi there! Let’s explore science and medicine together—what’s on your mind today?
+
+# General Rheumatology Facts Intent
+Examples:
+- What is rheumatology?
+- Can you explain rheumatology?
+- Tell me about rheumatology.
+Responses:
+- Rheumatology is the study and treatment of rheumatic diseases, which affect joints, muscles, and connective tissues.
+- This field focuses on autoimmune and inflammatory conditions, such as rheumatoid arthritis and lupus.
+
+# Lupus Facts Intent
+Examples:
+- Tell me about lupus.
+- What is lupus?
+- How does lupus affect people?
+Responses:
+- Lupus is a chronic autoimmune disease where the immune system attacks healthy tissues, causing inflammation and damage.
+- It can affect various organs, including the skin, joints, kidneys, and brain. Symptoms often include fatigue, joint pain, and rashes.
+- Women are 9 times more likely than men to develop lupus, especially during their reproductive years.
+Learning Resources:
+- Studies suggest that early diagnosis and treatment with medications like corticosteroids or immunosuppressants can significantly improve outcomes.
+- Regular follow-ups with a rheumatologist are crucial for managing lupus effectively.
+
+# Rheumatoid Arthritis Facts Intent
+Examples:
+- What is rheumatoid arthritis?
+- Can you explain rheumatoid arthritis?
+- How does rheumatoid arthritis affect joints?
+Responses:
+- Rheumatoid arthritis (RA) is a chronic autoimmune condition where the immune system mistakenly attacks joint tissues, leading to pain, swelling, and eventual joint deformity.
+- Unlike osteoarthritis, RA is not caused by wear and tear but by inflammation.
+- RA often affects smaller joints like those in the hands and feet symmetrically.
+Learning Resources:
+- Early diagnosis and disease-modifying antirheumatic drugs (DMARDs) like methotrexate are vital for slowing progression.
+- Regular exercise and physical therapy can help maintain joint flexibility and reduce pain.
+
+# Fibromyalgia Facts Intent
+Examples:
+- What is fibromyalgia?
+- Can you explain fibromyalgia?
+- How does fibromyalgia cause pain?
+Responses:
+- Fibromyalgia is a chronic condition characterized by widespread musculoskeletal pain, fatigue, and tenderness in specific areas.
+- It is often accompanied by cognitive issues, sometimes called "fibro fog," which can make concentration difficult.
+- Although its exact cause is unknown, fibromyalgia is believed to involve abnormal pain processing in the brain and spinal cord.
+Learning Resources:
+- Treatment often includes a combination of medications, like antidepressants or nerve pain drugs, and non-pharmacological therapies such as exercise, mindfulness, and cognitive behavioral therapy.
+
+# Chronic Pain Education Intent
+Examples:
+- Why does chronic pain happen?
+- Can you teach me about chronic pain?
+- What are some chronic pain conditions?
+Responses:
+- Chronic pain is pain that persists for more than three months and may continue even after the initial injury or illness has healed.
+- Common causes include conditions like fibromyalgia, osteoarthritis, and neuropathy.
+Learning Resources:
+- Effective management often requires a multidisciplinary approach, including medication, physical therapy, psychological support, and lifestyle changes.
+- Mind-body techniques like meditation and yoga can reduce the perception of pain.
+
+# Nociplastic Pain Facts Intent
+Examples:
+- What is nociplastic pain?
+- Can you explain nociplastic pain?
+- How does nociplastic pain work?
+Responses:
+- Nociplastic pain is a type of pain that arises from altered pain processing in the nervous system rather than direct tissue damage or inflammation.
+- It is commonly seen in conditions like fibromyalgia and chronic migraine.
+Learning Resources:
+- This type of pain requires personalized treatment, focusing on restoring the nervous system's balance through medications, physical therapy, and psychological support.
+
+# Rehabilitation and Pain Management Intent
+Examples:
+- How can rehabilitation help with pain?
+- What are some strategies for chronic pain management?
+- Can physical therapy help rheumatic conditions?
+Responses:
+- Rehabilitation focuses on restoring function and reducing pain through tailored physical therapy, exercises, and assistive devices.
+- Chronic pain management strategies often combine medication, physical activity, stress reduction, and cognitive-behavioral techniques.
+- Physical therapy can help strengthen muscles around affected joints, improve mobility, and reduce stiffness.
+Learning Resources:
+- Gradual pacing of activities can help prevent pain flares while improving strength and endurance.
+- Pain education programs empower patients to understand their condition and regain control over their lives.
+
+# Emotional Support Intent
+Examples:
+- Living with chronic pain is hard. Can you help?
+- How do people cope with fibromyalgia emotionally?
+- What support is available for rheumatic diseases?
+Responses:
+- You're not alone. Managing chronic pain can be overwhelming, but building a strong support system and seeking professional help can make a big difference.
+- Practices like mindfulness, meditation, and gentle yoga can help improve mental well-being while reducing the intensity of pain.
+- Joining a support group for people with similar conditions can provide encouragement and shared experiences.
+
+# Thank You Intent
+Examples:
+- Thank you!
+- Thanks a lot.
+- I appreciate your help.
+Responses:
+- You're most welcome! I’m here whenever you need support.
+- It’s my pleasure—helping others understand rheumatology and chronic pain is what I’m here for.
+
+# Goodbye Intent
+Examples:
+- Goodbye
+- See you later
+- Bye!
+Responses:
+- Goodbye! Wishing you wellness and strength on your journey.
+- Take care! Stay curious and keep asking questions.
