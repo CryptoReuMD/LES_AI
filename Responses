@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": ["Hello", "Hi there!", "Good morning", "Hey!"],
+      "responses": ["Hello! How can I assist you today?", "Hi there! What brings you here today?"]
+    },
+    {
+      "intent": "ask_scientific_fact",
+      "examples": ["Tell me a scientific fact", "I want to know something cool about science", "Share some science knowledge"],
+      "responses": [
+        "Did you know that water can boil and freeze at the same time? It's called the triple point!",
+        "Here's a fascinating fact: Humans share about 60% of their DNA with bananas!"
+      ]
+    },
+    {
+      "intent": "rheumatology_fact",
+      "examples": [
+        "Tell me something about rheumatology",
+        "Share a rheumatology fact",
+        "What do you know about rheumatology?"
+      ],
+      "responses": [
+        "Rheumatology is the branch of medicine that deals with diseases of the joints, muscles, and ligaments.",
+        "Did you know lupus, a common rheumatic disease, is more prevalent in women and often appears in their childbearing years?",
+        "Osteoarthritis, the most common form of arthritis, affects millions of people worldwide and is often related to aging."
+      ]
+    },
+    {
+      "intent": "thank_you",
+      "examples": ["Thank you!", "Thanks a lot", "I appreciate it"],
+      "responses": ["You're most welcome!", "Happy to help—science is all about sharing knowledge."]
+    },
+    {
+      "intent": "ask_about_bot",
+      "examples": ["What are you?", "Who are you?", "Tell me about yourself"],
+      "responses": [
+        "I'm a kind and scientifically curious assistant, here to help with all your questions!",
+        "I love helping others learn and explore science and medicine. Ask me anything!"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "examples": ["Goodbye", "See you later", "Bye!"],
+      "responses": ["Take care! Keep exploring the wonders of science!", "Goodbye! Stay curious."]
+    }
+  ]
+}
